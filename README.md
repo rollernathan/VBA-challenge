@@ -21,7 +21,7 @@ Eventually, the next steps were included in a for loop to iterate through each o
 
 The results of the analysis are shown in the images provided below.
 
-![Q1_results.png]https://github.com/rollernathan/VBA-challenge/blob/main/images/Q1_results.png
+![]https://github.com/rollernathan/VBA-challenge/blob/main/images/Q1_results.png
 
 
 
